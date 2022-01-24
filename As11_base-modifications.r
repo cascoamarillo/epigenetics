@@ -1,9 +1,9 @@
 
-file=read.table("~/Documents/ArkLab/Methylome/motifs/base-modification/Av11.original_PB.euk_15cells_m4C-m6A.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
+file=read.table("Av11.original_PB.euk_15cells_m4C-m6A.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
 
-file=read.table("~/Documents/ArkLab/Methylome/motifs/base-modification/Av11.original_PB.euk_15cells_m6A-10x.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
+file=read.table("Av11.original_PB.euk_15cells_m6A-10x.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
 
-file=read.table("~/Documents/ArkLab/Methylome/motifs/base-modification/Av11.original_PB.euk_15cells_m4C-m6A-10x_frac0.1.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
+file=read.table("Av11.original_PB.euk_15cells_m4C-m6A-10x_frac0.1.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
 
 
 head(file)
