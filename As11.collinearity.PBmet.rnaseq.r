@@ -1,5 +1,5 @@
 
-file=read.table("~/Documents/ArkLab/Methylome/collinearity//As11.collinearity.PBmet.rnaseq.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
+file=read.table("As11.collinearity.PBmet.rnaseq.csv", stringsAsFactors=FALSE, header=TRUE, sep=",")
 
 head(file)
 
