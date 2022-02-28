@@ -2,8 +2,8 @@
 
 Scripts to look at methylation fraction distribution at modified sites detected by SMRT-seq (Figure 2)
 
-Scripts to look at comparisons of AvL1 gene transcription in ChIP-seq peaks (Supplementary Fig. 10)
-collinear blocks
+Scripts to look at comparisons of AvL1 gene transcription in ChIP-seq peaks and in collinear blocks (Supplementary Fig. 10)
+
 
 ## Code for Rodriguez et al. 2022
 
